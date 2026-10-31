@@ -1,5 +1,7 @@
 # Keystrokes for Cinnabar
 
+**⬇️ Download:** [`keystrokes.wasm`](https://github.com/Emilchill/keystrokes/raw/main/download/keystrokes.wasm) (Cinnabar v0.1.31 or newer). Import it in **Settings → Mods → Import mod...**
+
 Shows your movement keys, jump and mouse buttons in the top-left corner, lighting up while
 you hold them, with clicks per second under each mouse button.
 
