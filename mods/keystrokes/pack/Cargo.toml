@@ -1,0 +1,15 @@
+[package]
+name = "keystrokes-pack"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license = "MIT"
+publish = false
+
+[dependencies]
+wit-component = "=0.247.0"
+wasmparser = "=0.247.0"
+wasm-encoder = "=0.247.0"
+mod-api.workspace = true
+keystrokes = { path = ".." }
+serde_json = "1"
